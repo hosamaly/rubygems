@@ -6,6 +6,7 @@ on:
   push:
     branches:
       - master
+      - bundle-outdated-filter-ruby-version_test
       - 3.2
 
 jobs:
